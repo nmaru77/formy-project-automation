@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49794caf-59e9-4ae7-8fe8-d853aa382371" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZAkR0ZYWsW9rFbMArdc29X1mAW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../06_04/start" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="Form" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Form" />
+      <module name="Form" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Form" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49794caf-59e9-4ae7-8fe8-d853aa382371" name="Default" comment="" />
+      <created>1522557109151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522557109151</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2040" y="193" key="#Project_Structure" timestamp="1584289556467">
+      <screen x="1600" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2040" y="193" key="#Project_Structure/1600.0.1680.1010/0.0.1600.1160@1600.0.1680.1010" timestamp="1584289556467" />
+    <state x="2228" y="289" key="FileChooserDialogImpl" timestamp="1584290630744">
+      <screen x="1600" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2228" y="289" key="FileChooserDialogImpl/1600.0.1680.1010/0.0.1600.1160@1600.0.1680.1010" timestamp="1584290630744" />
+    <state width="1340" height="197" key="GridCell.Tab.0.bottom" timestamp="1584290405796">
+      <screen x="1600" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1340" height="197" key="GridCell.Tab.0.bottom/1600.0.1680.1010/0.0.1600.1160@1600.0.1680.1010" timestamp="1584290405796" />
+    <state width="1340" height="197" key="GridCell.Tab.0.center" timestamp="1584290405796">
+      <screen x="1600" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1340" height="197" key="GridCell.Tab.0.center/1600.0.1680.1010/0.0.1600.1160@1600.0.1680.1010" timestamp="1584290405796" />
+    <state width="1340" height="197" key="GridCell.Tab.0.left" timestamp="1584290405796">
+      <screen x="1600" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1340" height="197" key="GridCell.Tab.0.left/1600.0.1680.1010/0.0.1600.1160@1600.0.1680.1010" timestamp="1584290405796" />
+    <state width="1340" height="197" key="GridCell.Tab.0.right" timestamp="1584290405796">
+      <screen x="1600" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1340" height="197" key="GridCell.Tab.0.right/1600.0.1680.1010/0.0.1600.1160@1600.0.1680.1010" timestamp="1584290405796" />
+  </component>
+</project>
